@@ -130,9 +130,8 @@ Each record occupies a fixed size of `sizeof(Student)` bytes, allowing O(1) rand
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-B.Tech Computer Science | [Your College Name]  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+**Madhura Bijawe**  
+
 
 ---
 
